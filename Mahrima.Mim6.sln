@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mahrima.Mim6", "Mahrima.Mim6\Mahrima.Mim6.csproj", "{2AEB6D2A-1099-440F-87A0-2180189064A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEB6D2A-1099-440F-87A0-2180189064A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEB6D2A-1099-440F-87A0-2180189064A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEB6D2A-1099-440F-87A0-2180189064A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEB6D2A-1099-440F-87A0-2180189064A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8202BCBC-C94F-4D34-82B4-4D5B59D77FFF}
+	EndGlobalSection
+EndGlobal
